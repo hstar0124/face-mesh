@@ -1,0 +1,9 @@
+services:
+  fastapi:
+    image: hstar-fastapi-nomodel:latest
+    ports:
+      - "8000:80"
+    environment:
+      - MAX_WORKERS=2
+    volumes:
+      - ./models:/app/models

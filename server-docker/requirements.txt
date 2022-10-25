@@ -1,0 +1,6 @@
+uvicorn[standard]
+gunicorn
+fastapi
+python-multipart
+onnxruntime
+opencv-python-headless
