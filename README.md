@@ -12,6 +12,8 @@
 - VS Code
 - Anaconda3-2022.10 (https://www.anaconda.com/products/distribution)
 - Python 3.8.13
+- fastapi
+- onnxruntime
 
 ## 기능
 [클라이언트]
